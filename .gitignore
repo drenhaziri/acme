@@ -1,0 +1,7 @@
+# Ignore build output directories
+bin/
+obj/
+src/obj/project.nuget.cache
+
+# Ignore macOS system files
+.DS_Store
